@@ -1,0 +1,473 @@
+Timings
+1: DRUMGOLE ROAD W./DRUMGOOLE ROAD W. & ARTHUR KILL RD	01/10/2018
+
+
+Lane Group            		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lane Configurations   		1	1>	0	2	2>	0	1	2>	0	0	2>	0
+Traffic Volume (vph)  		253	523	10	528	309	5	27	926	137	0	501	113
+Future Volume (vph)   		253	523	10	528	309	5	27	926	137	0	501	113
+Lane Group Flow (vph) 		288	607	0	574	392	0	34	1179	0	0	724	0
+Turn Type             		pm+pt	NA		pm+pt	NA		Perm	NA			NA	
+Protected Phases      		7	4		3	8			2			6	
+Permitted Phases      		4			8			2					
+Detector Phase        		7	4		3	8		2	2			6	
+Switch Phase          													
+Minimum Initial (s)   		4.0	4.0		4.0	4.0		4.0	4.0			4.0	
+Minimum Split (s)     		9.0	27.0		9.0	27.0		45.0	45.0			45.0	
+Total Split (s)       		18.0	28.0		18.0	28.0		44.0	44.0			44.0	
+Total Split (%)       		20.0%	31.1%		20.0%	31.1%		48.9%	48.9%			48.9%	
+Yellow Time (s)       		3.0	3.0		3.0	3.0		3.0	3.0			3.0	
+All-Red Time (s)      		2.0	2.0		2.0	2.0		2.0	2.0			2.0	
+Lost Time Adjust (s)  		-1.0	-1.0		-1.0	-1.0		-1.0	-1.0			-1.0	
+Total Lost Time (s)   		4.0	4.0		4.0	4.0		4.0	4.0			4.0	
+Lead/Lag              		Lead	Lag		Lead	Lag							
+Lead-Lag Optimize?    													
+Recall Mode           		Max	Max		Max	Max		Max	Max			Max	
+Act Effct Green (s)   		38.0	24.0		38.0	24.0		40.0	40.0			40.0	
+Actuated g/C Ratio    		0.42	0.27		0.42	0.27		0.44	0.44			0.44	
+v/c Ratio             		0.61	1.26		0.86	0.52		0.14	0.80			0.50	
+Control Delay         		22.0	163.6		21.1	22.0		16.9	26.5			19.4	
+Queue Delay           		0.0	0.0		0.0	0.0		0.0	0.0			0.0	
+Total Delay           		22.0	163.6		21.1	22.0		16.9	26.5			19.4	
+LOS                   		C	F		C	C		B	C			B	
+Approach Delay        			118.0			21.5			26.2			19.4	
+Approach LOS          			F			C			C			B	
+Queue Length 50th (ft)		101	~437		92	108		11	294			150	
+Queue Length 95th (ft)		157	#619		#196	132		27	380			186	
+Internal Link Dist (ft)			383			523			211			716	
+Turn Bay Length (ft)  					200								
+Base Capacity (vph)   		471	482		665	753		235	1480			1436	
+Starvation Cap Reductn		0	0		0	0		0	0			0	
+Spillback Cap Reductn 		0	0		0	0		0	0			0	
+Storage Cap Reductn   		0	0		0	0		0	0			0	
+Reduced v/c Ratio     		0.61	1.26		0.86	0.52		0.14	0.80			0.50	
+
+Intersection Summary
+Cycle Length: 90
+Actuated Cycle Length: 90
+Offset: 85 (94%), Referenced to phase 2:NBTL and 6:SBT, Start of Green
+Natural Cycle: 95
+Control Type: Pretimed
+Maximum v/c Ratio: 1.26
+Intersection Signal Delay: 45.4					Intersection LOS: D
+Intersection Capacity Utilization 86.6%					ICU Level of Service E
+Analysis Period (min) 15
+~    Volume exceeds capacity, queue is theoretically infinite.
+     Queue shown is maximum after two cycles.
+#    95th percentile volume exceeds capacity, queue may be longer.
+     Queue shown is maximum after two cycles.
+
+
+2021 With Action AM 5:00 pm 09/25/2017 	Synchro 7 -  Report
+
+Timings
+2: RICHMOND AVENUE & ARTHUR KILL RD	01/10/2018
+
+
+Lane Group            		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lane Configurations   		1	2>	0	1	2	1	2	2>	0	2	2>	0
+Traffic Volume (vph)  		32	589	42	16	696	431	125	777	121	250	322	21
+Future Volume (vph)   		32	589	42	16	696	431	125	777	121	250	322	21
+Lane Group Flow (vph) 		36	722	0	20	800	463	156	1056	0	281	414	0
+Turn Type             		Perm	NA		Perm	NA	pm+ov	Prot	NA		Prot	NA	
+Protected Phases      			4			8	1	5	2		1	6	
+Permitted Phases      		4			8		8						
+Detector Phase        		4	4		8	8	1	5	2		1	6	
+Switch Phase          													
+Minimum Initial (s)   		4.0	4.0		4.0	4.0	4.0	4.0	4.0		4.0	4.0	
+Minimum Split (s)     		36.0	36.0		36.0	36.0	9.0	9.0	32.0		9.0	32.0	
+Total Split (s)       		37.0	37.0		37.0	37.0	18.0	18.0	35.0		18.0	35.0	
+Total Split (%)       		41.1%	41.1%		41.1%	41.1%	20.0%	20.0%	38.9%		20.0%	38.9%	
+Yellow Time (s)       		3.0	3.0		3.0	3.0	3.0	3.0	3.0		3.0	3.0	
+All-Red Time (s)      		2.0	2.0		2.0	2.0	2.0	2.0	2.0		2.0	2.0	
+Lost Time Adjust (s)  		-1.0	-1.0		-1.0	-1.0	-1.0	-1.0	-1.0		-1.0	-1.0	
+Total Lost Time (s)   		4.0	4.0		4.0	4.0	4.0	4.0	4.0		4.0	4.0	
+Lead/Lag              							Lead	Lead	Lag		Lead	Lag	
+Lead-Lag Optimize?    													
+Recall Mode           		Max	Max		Max	Max	Max	Max	Max		Max	Max	
+Act Effct Green (s)   		33.0	33.0		33.0	33.0	51.0	14.0	31.0		14.0	31.0	
+Actuated g/C Ratio    		0.37	0.37		0.37	0.37	0.57	0.16	0.34		0.16	0.34	
+v/c Ratio             		0.45	0.60		0.14	0.69	0.53	0.36	0.87		0.58	0.41	
+Control Delay         		21.4	16.9		12.4	16.1	12.5	36.6	37.3		40.6	24.0	
+Queue Delay           		0.0	0.0		0.0	0.0	0.0	0.0	0.0		0.0	0.0	
+Total Delay           		21.4	16.9		12.4	16.1	12.5	36.6	37.3		40.6	24.0	
+LOS                   		C	B		B	B	B	D	D		D	C	
+Approach Delay        			17.1			14.7			37.2			30.7	
+Approach LOS          			B			B			D			C	
+Queue Length 50th (ft)		19	203		6	122	116	41	292		77	93	
+Queue Length 95th (ft)		m17	m184		m10	135	147	62	346		116	122	
+Internal Link Dist (ft)			523			760			221			617	
+Turn Bay Length (ft)  		100			240			100			400		
+Base Capacity (vph)   		80	1194		144	1154	867	438	1209		486	1020	
+Starvation Cap Reductn		0	0		0	0	0	0	0		0	0	
+Spillback Cap Reductn 		0	0		0	0	0	0	0		0	0	
+Storage Cap Reductn   		0	0		0	0	0	0	0		0	0	
+Reduced v/c Ratio     		0.45	0.60		0.14	0.69	0.53	0.36	0.87		0.58	0.41	
+
+Intersection Summary
+Cycle Length: 90
+Actuated Cycle Length: 90
+Offset: 62 (69%), Referenced to phase 2:NBT and 6:SBT, Start of Green
+Natural Cycle: 80
+Control Type: Pretimed
+Maximum v/c Ratio: 0.87
+Intersection Signal Delay: 24.9					Intersection LOS: C
+Intersection Capacity Utilization 69.1%					ICU Level of Service C
+Analysis Period (min) 15
+m    Volume for 95th percentile queue is metered by upstream signal.
+
+
+2021 With Action AM 5:00 pm 09/25/2017 	Synchro 7 -  Report
+
+Timings
+3: GETZ AVENUE & ARTHUR KILL RD	01/10/2018
+
+
+Lane Group            		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lane Configurations   			2>	0	1	2		1		1			
+Traffic Volume (vph)  			864	96	144	928		215		227			
+Future Volume (vph)   			864	96	144	928		215		227			
+Lane Group Flow (vph) 			1039	0	180	967		269		273			
+Turn Type             			NA		pm+pt	NA		Prot		Perm			
+Protected Phases      			2		1	6		8					
+Permitted Phases      					6					8			
+Detector Phase        			2		1	6		8		8			
+Switch Phase          													
+Minimum Initial (s)   			4.0		4.0	4.0		4.0		4.0			
+Minimum Split (s)     			58.0		9.0	58.0		30.0		30.0			
+Total Split (s)       			52.0		11.0	63.0		27.0		27.0			
+Total Split (%)       			57.8%		12.2%	70.0%		30.0%		30.0%			
+Yellow Time (s)       			3.0		3.0	3.0		3.0		3.0			
+All-Red Time (s)      			2.0		2.0	2.0		2.0		2.0			
+Lost Time Adjust (s)  			-1.0		-1.0	-1.0		0.0		0.0			
+Total Lost Time (s)   			4.0		4.0	4.0		5.0		5.0			
+Lead/Lag              			Lag		Lead								
+Lead-Lag Optimize?    			Yes		Yes								
+Recall Mode           			Max		Max	Max		Max		Max			
+Act Effct Green (s)   			48.0		59.0	59.0		22.0		22.0			
+Actuated g/C Ratio    			0.53		0.66	0.66		0.24		0.24			
+v/c Ratio             			0.62		0.60	0.43		0.72		0.80			
+Control Delay         			12.2		14.1	7.1		44.0		51.6			
+Queue Delay           			0.0		0.0	0.0		0.0		0.0			
+Total Delay           			12.2		14.1	7.1		44.0		51.6			
+LOS                   			B		B	A		D		D			
+Approach Delay        			12.2			8.2		47.8					
+Approach LOS          			B			A		D					
+Queue Length 50th (ft)			125		24	187		141		146			
+Queue Length 95th (ft)			m145		44	233		197		#238			
+Internal Link Dist (ft)			760			494		307					
+Turn Bay Length (ft)  					80								
+Base Capacity (vph)   			1665		299	2232		372		340			
+Starvation Cap Reductn			0		0	0		0		0			
+Spillback Cap Reductn 			0		0	0		0		0			
+Storage Cap Reductn   			0		0	0		0		0			
+Reduced v/c Ratio     			0.62		0.60	0.43		0.72		0.80			
+
+Intersection Summary
+Cycle Length: 90
+Actuated Cycle Length: 90
+Offset: 8 (9%), Referenced to phase 2:EBT and 6:WBTL, Start of Green
+Natural Cycle: 100
+Control Type: Pretimed
+Maximum v/c Ratio: 0.80
+Intersection Signal Delay: 17.6					Intersection LOS: B
+Intersection Capacity Utilization 57.7%					ICU Level of Service B
+Analysis Period (min) 15
+#    95th percentile volume exceeds capacity, queue may be longer.
+     Queue shown is maximum after two cycles.
+m    Volume for 95th percentile queue is metered by upstream signal.
+
+
+2021 With Action AM 5:00 pm 09/25/2017 	Synchro 7 -  Report
+
+HCM Unsignalized Intersection Capacity Analysis
+4: CORTELYOU AVENUE & ARTHUR KILL RD	01/10/2018
+
+
+Movement              		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lanes                 			2>	0	0	<2		1>		0			
+Traffic Volume (veh/h)			979	112	5	1035		37		16			
+Future Volume (Veh/h) 			979	112	5	1035		37		16			
+Sign Control          			Free			Free		Stop					
+Grade                 			0%			0%		0%					
+Peak Hour Factor      			0.94	0.85	0.80	0.96		0.80		0.80			
+Hourly flow rate (vph)			1041	132	6	1078		46		20			
+Pedestrians           													
+Lane Width (ft)       													
+Walking Speed (ft/s)  													
+Percent Blockage      													
+Right turn flare (veh)													
+Median type           			None			None							
+Median storage veh)   													
+Upstream signal (ft)  			574			665							
+pX, platoon unblocked 					0.82			0.87		0.82			
+vC, conflicting volume					1173			1658		586			
+vC1, stage 1 conf vol 													
+vC2, stage 2 conf vol 													
+vCu, unblocked vol    					772			924		57			
+tC, single (s)        					5.3			6.8		6.9			
+tC, 2 stage (s)       													
+tF (s)                					2.8			3.5		3.3			
+p0 queue free %       					99			80		98			
+cM capacity (veh/h)   					450			234		823			
+
+Direction, Lane #     		EB 1	EB 2	WB 1	WB 2	NB 1
+Volume Total          		694	479	365	719	66
+Volume Left           		0	0	6	0	46
+Volume Right          		0	132	0	0	20
+cSH                   		1700	1700	450	1700	299
+Volume to Capacity    		0.41	0.28	0.01	0.42	0.22
+Queue Length 95th (ft)		0	0	1	0	21
+Control Delay (s)     		0.0	0.0	0.4	0.0	20.4
+Lane LOS              				A		C
+Approach Delay (s)    		0.0		0.1		20.4
+Approach LOS          						C
+
+Intersection Summary
+Average Delay         				0.6
+Intersection Capacity Utilization 				42.1%	ICU Level of Service 					A
+Analysis Period (min) 				15
+
+
+
+2021 With Action AM 5:00 pm 09/25/2017 	Synchro 7 -  Report
+
+Timings
+5: ARMSTRONG AVENUE & ARTHUR KILL RD	01/10/2018
+
+
+Lane Group            		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lane Configurations   			2>	0	1	2		2>		0			
+Traffic Volume (vph)  			926	70	63	753		288		111			
+Future Volume (vph)   			926	70	63	753		288		111			
+Lane Group Flow (vph) 			1035	0	75	793		466		0			
+Turn Type             			NA		Perm	NA		Prot					
+Protected Phases      			2			6		8					
+Permitted Phases      					6								
+Detector Phase        			2		6	6		8					
+Switch Phase          													
+Minimum Initial (s)   			4.0		4.0	4.0		4.0					
+Minimum Split (s)     			17.0		17.0	17.0		22.0					
+Total Split (s)       			54.0		54.0	54.0		36.0					
+Total Split (%)       			60.0%		60.0%	60.0%		40.0%					
+Yellow Time (s)       			3.0		3.0	3.0		3.0					
+All-Red Time (s)      			2.0		2.0	2.0		2.0					
+Lost Time Adjust (s)  			-1.0		-1.0	-1.0		-1.0					
+Total Lost Time (s)   			4.0		4.0	4.0		4.0					
+Lead/Lag              													
+Lead-Lag Optimize?    													
+Recall Mode           			Max		Max	Max		Max					
+Act Effct Green (s)   			50.0		50.0	50.0		32.0					
+Actuated g/C Ratio    			0.56		0.56	0.56		0.36					
+v/c Ratio             			0.59		0.42	0.44		0.45					
+Control Delay         			7.7		18.9	10.5		23.9					
+Queue Delay           			0.0		0.0	0.0		0.0					
+Total Delay           			7.7		18.9	10.5		23.9					
+LOS                   			A		B	B		C					
+Approach Delay        			7.7			11.2		23.9					
+Approach LOS          			A			B		C					
+Queue Length 50th (ft)			85		15	90		103					
+Queue Length 95th (ft)			101		m73	150		140					
+Internal Link Dist (ft)			585			2172		201					
+Turn Bay Length (ft)  					80								
+Base Capacity (vph)   			1763		177	1797		1040					
+Starvation Cap Reductn			0		0	0		0					
+Spillback Cap Reductn 			0		0	0		0					
+Storage Cap Reductn   			0		0	0		0					
+Reduced v/c Ratio     			0.59		0.42	0.44		0.45					
+
+Intersection Summary
+Cycle Length: 90
+Actuated Cycle Length: 90
+Offset: 43 (48%), Referenced to phase 2:EBT and 6:WBTL, Start of Green
+Natural Cycle: 55
+Control Type: Pretimed
+Maximum v/c Ratio: 0.59
+Intersection Signal Delay: 12.2					Intersection LOS: B
+Intersection Capacity Utilization 53.0%					ICU Level of Service A
+Analysis Period (min) 15
+m    Volume for 95th percentile queue is metered by upstream signal.
+
+
+2021 With Action AM 5:00 pm 09/25/2017 	Synchro 7 -  Report
+
+Timings
+6: GIFFORDS LANE & ARTHUR KILL RD	01/10/2018
+
+
+Lane Group            		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lane Configurations   			2>	0	0	<2		1>		0			
+Traffic Volume (vph)  			994	42	63	715		101		169			
+Future Volume (vph)   			994	42	63	715		101		169			
+Lane Group Flow (vph) 			1087	0	0	843		312		0			
+Turn Type             			NA		pm+pt	NA		Prot					
+Protected Phases      			2		1	6		8					
+Permitted Phases      					6								
+Detector Phase        			2		1	6		8					
+Switch Phase          													
+Minimum Initial (s)   			4.0		4.0	4.0		4.0					
+Minimum Split (s)     			16.0		9.0	16.0		18.0					
+Total Split (s)       			51.0		12.0	63.0		27.0					
+Total Split (%)       			56.7%		13.3%	70.0%		30.0%					
+Yellow Time (s)       			3.0		3.0	3.0		3.0					
+All-Red Time (s)      			2.0		2.0	2.0		2.0					
+Lost Time Adjust (s)  			0.0			0.0		-1.0					
+Total Lost Time (s)   			5.0			5.0		4.0					
+Lead/Lag              			Lag		Lead								
+Lead-Lag Optimize?    			Yes		Yes								
+Recall Mode           			Max		Max	Max		Max					
+Act Effct Green (s)   			46.0			58.0		23.0					
+Actuated g/C Ratio    			0.51			0.64		0.26					
+v/c Ratio             			0.67			0.53		0.76					
+Control Delay         			12.9			8.4		44.8					
+Queue Delay           			0.0			0.0		0.0					
+Total Delay           			12.9			8.4		44.8					
+LOS                   			B			A		D					
+Approach Delay        			12.9			8.4		44.8					
+Approach LOS          			B			A		D					
+Queue Length 50th (ft)			197			82		164					
+Queue Length 95th (ft)			297			m100		#288					
+Internal Link Dist (ft)			2172			400		832					
+Turn Bay Length (ft)  													
+Base Capacity (vph)   			1618			1587		410					
+Starvation Cap Reductn			0			0		0					
+Spillback Cap Reductn 			0			0		0					
+Storage Cap Reductn   			0			0		0					
+Reduced v/c Ratio     			0.67			0.53		0.76					
+
+Intersection Summary
+Cycle Length: 90
+Actuated Cycle Length: 90
+Offset: 44 (49%), Referenced to phase 2:EBT and 6:WBTL, Start of Green
+Natural Cycle: 60
+Control Type: Pretimed
+Maximum v/c Ratio: 0.76
+Intersection Signal Delay: 15.6					Intersection LOS: B
+Intersection Capacity Utilization 78.4%					ICU Level of Service D
+Analysis Period (min) 15
+#    95th percentile volume exceeds capacity, queue may be longer.
+     Queue shown is maximum after two cycles.
+m    Volume for 95th percentile queue is metered by upstream signal.
+
+
+2021 With Action AM 5:00 pm 09/25/2017 	Synchro 7 -  Report
+
+Timings
+7: TANGLEWOOD DRIVE & ARTHUR KILL RD	01/10/2018
+
+
+Lane Group            		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lane Configurations   			2>	0	1	2		1>		0			
+Traffic Volume (vph)  			1108	26	47	838		21		232			
+Future Volume (vph)   			1108	26	47	838		21		232			
+Lane Group Flow (vph) 			1224	0	55	986		316		0			
+Turn Type             			NA		Perm	NA		Prot					
+Protected Phases      			4			8		2					
+Permitted Phases      					8								
+Detector Phase        			4		8	8		2					
+Switch Phase          													
+Minimum Initial (s)   			4.0		4.0	4.0		4.0					
+Minimum Split (s)     			17.0		17.0	17.0		19.0					
+Total Split (s)       			64.0		64.0	64.0		26.0					
+Total Split (%)       			71.1%		71.1%	71.1%		28.9%					
+Yellow Time (s)       			3.0		3.0	3.0		3.0					
+All-Red Time (s)      			2.0		2.0	2.0		2.0					
+Lost Time Adjust (s)  			-1.0		-1.0	-1.0		0.0					
+Total Lost Time (s)   			4.0		4.0	4.0		5.0					
+Lead/Lag              													
+Lead-Lag Optimize?    													
+Recall Mode           			Max		Max	Max		Max					
+Act Effct Green (s)   			60.0		60.0	60.0		21.0					
+Actuated g/C Ratio    			0.67		0.67	0.67		0.23					
+v/c Ratio             			0.53		0.25	0.44		0.90					
+Control Delay         			4.1		9.4	7.8		64.3					
+Queue Delay           			0.0		0.0	0.0		0.0					
+Total Delay           			4.1		9.4	7.8		64.3					
+LOS                   			A		A	A		E					
+Approach Delay        			4.1			7.9		64.3					
+Approach LOS          			A			A		E					
+Queue Length 50th (ft)			65		11	122		175					
+Queue Length 95th (ft)			76		29	146		#282					
+Internal Link Dist (ft)			696			689		927					
+Turn Bay Length (ft)  					80								
+Base Capacity (vph)   			2295		221	2253		350					
+Starvation Cap Reductn			0		0	0		0					
+Spillback Cap Reductn 			0		0	0		0					
+Storage Cap Reductn   			0		0	0		0					
+Reduced v/c Ratio     			0.53		0.25	0.44		0.90					
+
+Intersection Summary
+Cycle Length: 90
+Actuated Cycle Length: 90
+Offset: 0 (0%), Referenced to phase 4:EBT and 8:WBTL, Start of Green
+Natural Cycle: 50
+Control Type: Pretimed
+Maximum v/c Ratio: 0.90
+Intersection Signal Delay: 13.0					Intersection LOS: B
+Intersection Capacity Utilization 61.1%					ICU Level of Service B
+Analysis Period (min) 15
+#    95th percentile volume exceeds capacity, queue may be longer.
+     Queue shown is maximum after two cycles.
+
+
+2021 With Action AM 5:00 pm 09/25/2017 	Synchro 7 -  Report
+
+Timings
+8: CLARKE AVE & ARTHUR KILL RD	01/10/2018
+
+
+Lane Group            		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR	Ø6
+Lane Configurations   			1	1	1	1		1>		0				
+Traffic Volume (vph)  			647	692	132	538		348		174				
+Future Volume (vph)   			647	692	132	538		348		174				
+Lane Group Flow (vph) 			688	814	143	604		614		0				
+Turn Type             			NA	pm+ov	pm+pt	NA		Prot						
+Protected Phases      			2	8	14	6 14		8						6
+Permitted Phases      				2	6 14									
+Detector Phase        			2	8	14	6 14		8						
+Switch Phase          														
+Minimum Initial (s)   			4.0	4.0	4.0			4.0						4.0
+Minimum Split (s)     			16.0	16.0	12.0			16.0						16.0
+Total Split (s)       			42.0	40.0	11.0			40.0						42.0
+Total Split (%)       			45.2%	43.0%	11.8%			43.0%						45%
+Yellow Time (s)       			3.0	3.0	3.0			3.0						4.0
+All-Red Time (s)      			2.0	2.0	2.0			2.0						2.0
+Lost Time Adjust (s)  			-2.0	-2.0	-2.0			-2.0						
+Total Lost Time (s)   			3.0	3.0	3.0			3.0						
+Lead/Lag              														
+Lead-Lag Optimize?    														
+Recall Mode           			Max	Max	Max			Max						Max
+Act Effct Green (s)   			39.0	79.0	47.0	49.0		37.0						
+Actuated g/C Ratio    			0.42	0.85	0.51	0.53		0.40						
+v/c Ratio             			0.94	0.62	0.57	0.61		0.81						
+Control Delay         			49.4	3.7	22.1	18.6		33.8						
+Queue Delay           			0.0	0.0	0.0	0.0		0.0						
+Total Delay           			49.4	3.7	22.1	18.6		33.8						
+LOS                   			D	A	C	B		C						
+Approach Delay        			24.6			19.3		33.8						
+Approach LOS          			C			B		C						
+Queue Length 50th (ft)			379	49	40	235		301						
+Queue Length 95th (ft)			#612	73	85	338		397						
+Internal Link Dist (ft)			952			199		588						
+Turn Bay Length (ft)  														
+Base Capacity (vph)   			730	1303	252	992		757						
+Starvation Cap Reductn			0	0	0	0		0						
+Spillback Cap Reductn 			0	0	0	0		0						
+Storage Cap Reductn   			0	0	0	0		0						
+Reduced v/c Ratio     			0.94	0.62	0.57	0.61		0.81						
+
+Intersection Summary
+Cycle Length: 93
+Actuated Cycle Length: 93
+Offset: 53 (57%), Referenced to phase 2:EBT and 6:WBTL, Start of Green
+Natural Cycle: 90
+Control Type: Pretimed
+Maximum v/c Ratio: 0.94
+Intersection Signal Delay: 25.2					Intersection LOS: C
+Intersection Capacity Utilization 81.3%					ICU Level of Service D
+Analysis Period (min) 15
+#    95th percentile volume exceeds capacity, queue may be longer.
+     Queue shown is maximum after two cycles.
+
+
+2021 With Action AM 5:00 pm 09/25/2017 	Synchro 7 -  Report
